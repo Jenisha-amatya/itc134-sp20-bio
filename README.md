@@ -1,6 +1,4 @@
 # itc134-sp20-bio
-A repo to use to start working on my bio  
-a 
-b 
-j 
+A repo to use to start working on my bio and canvas 
+ 
 
