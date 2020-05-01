@@ -1,1 +1,8 @@
-This is where I'll put my file information
+My name is Jenisha Amatya,currently a student in Seattle Central college in Year Up program. I am working towards Software Development and Testing Certificatio right now. I am in process of getting my bachelors degree at the same time with Information Technology and Systems major.
+
+I am passionate about computers and always wanted to grow my career in programmaing field but when it comes to programming I am starting from actual zero. I didn’t know what a <div> was, a function, loop, the difference between front-end and back-end,but as I take ITC classes I am getting to know more about compute languages. 
+
+I began reading blogs, detailing people’s personal journeys with coding. The most influential, for me was when someone said she became a developer in a year with differnt projects and her estimated time spent was around 300 hours. That blog has inspired me to and I beileve I can be a software developer. 
+
+I appreciate all the feedbakcs and support from other programmers, especially for someone like me who is completely new to this. Feedback is incredibly valuable. 
+
